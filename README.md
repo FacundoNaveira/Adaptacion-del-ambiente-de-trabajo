@@ -1,1 +1,4 @@
-# Adaptaci-n-del-ambiente-de-trabajo
+# Adaptación-del-ambiente-de-trabajo
+Facundo Naveira
+
+.NET  version 5
