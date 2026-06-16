@@ -17,7 +17,7 @@ namespace Ejercicio3
             if (minutosCorridos > 40)
             {
                 estaCansado = true;
-                return false; // No pudo completarlos [cite: 63]
+                return false; // No pudo completarlos 
             }
 
             return true;
@@ -31,7 +31,7 @@ namespace Ejercicio3
         public void Descansar(int minutos)
         {
             estaCansado = false;
-            minutosCorridos = 0; // Se recupera [cite: 64]
+            minutosCorridos = 0; // Se recupera 
         }
     }
 }
